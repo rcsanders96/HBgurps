@@ -1,0 +1,14 @@
+<div class='gurps-chat-message'>
+  <div class='prefix'>
+    {{localize "GURPS.suffersHeadVitalsWound" name=name location=location}} <span
+      class='pdflink'>([PDF:{{localize "GURPS.pdfKnockdownStun"}}])</span>.
+  </div>
+  <hr />
+  <div class='roll-result'>
+    ["{{localize "GURPS.majorWoundEffectLabel" name=name htCheck=htCheck}}" {{button}}]
+    <ul class='modifier-list'>
+      <li>[{{localize "GURPS.forLowPainThreshold" mod="-4"}}]</li>
+      <li>[{{localize "GURPS.forHighPainThreshold" mod="+3"}}]</li>
+    </ul>
+  </div>
+</div>

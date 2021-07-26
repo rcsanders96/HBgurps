@@ -1,0 +1,50 @@
+{
+  "name": "HBgurps",
+  "title": "Homebrew Gurps",
+  "description": "A modified version of the unofficial GURPS 4e system",
+  "version": "0.11.4",
+  "minimumCoreVersion": "0.8.5",
+  "compatibleCoreVersion": "0.8.8",
+  "templateVersion": 2,
+  "author": "Chris Normand/Nose66",
+  "esmodules": ["module/gurps.js", "lib/xregexp-all.js"],
+  "styles": [
+    "styles/simple.css",
+    "styles/css_boilerplate.css",
+    "styles/simplified.css",
+    "styles/npc-input.css",
+    "styles/apps.css"
+  ],
+  "packs": [],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    },
+    {
+      "lang": "pt-BR",
+      "name": "Português (Brasil)",
+      "path": "lang/pt_br.json"
+    },
+    {
+      "lang": "de",
+      "name": "Deutsch (German)",
+      "path": "lang/de.json"
+    },
+    {
+      "lang": "ru",
+      "name": "русский (Russian)",
+      "path": "lang/ru.json"
+    }
+  ],
+  "gridDistance": 1,
+  "gridUnits": "yd",
+  "primaryTokenAttribute": "HP",
+  "secondaryTokenAttribute": "FP",
+  "url": "https://github.com/rcsanders96/HBgurps/",
+  "manifest": "https://raw.githubusercontent.com/rcsanders96/HBgurps/release/system.json",
+  "download": "https://github.com/rcsanders96/HBgurps/archive/0.11.4.zip",
+  "socket": true,
+  "license": "LICENSE.txt"
+}

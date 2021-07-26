@@ -1,0 +1,362 @@
+------------
+keys in [lang/de.json] that are missing in [lang/en.json]
+  __NOTE TO TRANSLATOR__
+  __Skill Names__
+------------
+keys in [lang/en.json] that are missing in [lang/de.json]
+  GURPS.BODYPLANcentaur
+  GURPS.BODYPLANhumanoid
+  GURPS.BODYPLANhumanoid expanded
+  GURPS.FP
+  GURPS.HP
+  GURPS.ID
+  GURPS.SkillDXA
+  GURPS.SkillDXE
+  GURPS.SkillDXH
+  GURPS.SkillDXVH
+  GURPS.SkillHTA
+  GURPS.SkillHTE
+  GURPS.SkillHTH
+  GURPS.SkillHTVH
+  GURPS.SkillIQA
+  GURPS.SkillIQE
+  GURPS.SkillIQH
+  GURPS.SkillIQVH
+  GURPS.SkillPerA
+  GURPS.SkillPerE
+  GURPS.SkillPerH
+  GURPS.SkillPerVH
+  GURPS.SkillWillA
+  GURPS.SkillWillE
+  GURPS.SkillWillH
+  GURPS.SkillWillVH
+  GURPS.TransferTo
+  GURPS.addAdvantage
+  GURPS.addArmorDivisor
+  GURPS.addExplosion
+  GURPS.addHardenedDRLevel
+  GURPS.addInjuryTolerance
+  GURPS.addLargeAreaInjury
+  GURPS.addMeleeAttack
+  GURPS.addRangedAttack
+  GURPS.addSkill
+  GURPS.addSpell
+  GURPS.addWHard
+  GURPS.advantage
+  GURPS.advantages
+  GURPS.advantagesTab
+  GURPS.allDamage
+  GURPS.allOutDefense
+  GURPS.allTheDamage
+  GURPS.applyAllToTarget
+  GURPS.attributesDX
+  GURPS.attributesHT
+  GURPS.attributesIQ
+  GURPS.attributesPER
+  GURPS.attributesST
+  GURPS.attributesWILL
+  GURPS.blockbonus
+  GURPS.bonuses
+  GURPS.bulk
+  GURPS.chatFixedDamage
+  GURPS.chatLightSource
+  GURPS.chatMultipleOwnedFound
+  GURPS.chatNoOwnedTokenFound
+  GURPS.chatQty
+  GURPS.chatRollingDamage
+  GURPS.chatSuffersCripplingInjury
+  GURPS.chatTokenLightPicker
+  GURPS.chatTurnOffReeling
+  GURPS.chatTurnOffTired
+  GURPS.chatTurnOnReeling
+  GURPS.chatTurnOnTired
+  GURPS.chatUses
+  GURPS.check1
+  GURPS.check2
+  GURPS.check3
+  GURPS.check4
+  GURPS.collapse
+  GURPS.combatTab
+  GURPS.conditions
+  GURPS.copyrightGCS
+  GURPS.copyrightGURPS
+  GURPS.damageAbbrevburn
+  GURPS.damageAbbrevcor
+  GURPS.damageAbbrevcr
+  GURPS.damageAbbrevcut
+  GURPS.damageAbbrevdmg
+  GURPS.damageAbbrevfat
+  GURPS.damageAbbrevimp
+  GURPS.damageAbbrevpi
+  GURPS.damageAbbrevpi+
+  GURPS.damageAbbrevpi++
+  GURPS.damageAbbrevpi-
+  GURPS.damageAbbrevtox
+  GURPS.damageTypeHuge Piercing
+  GURPS.damageTypeLarge Piercing
+  GURPS.damageTypePiercing
+  GURPS.damageTypeSmall Piercing
+  GURPS.effectsNotApplicableDefenses
+  GURPS.effectsTemporaryAttributePenalties
+  GURPS.equipmentCost
+  GURPS.equipmentEquipped
+  GURPS.equipmentMaxUses
+  GURPS.equipmentQuantity
+  GURPS.equipmentTab
+  GURPS.equipmentTechlevel
+  GURPS.equipmentUses
+  GURPS.gameAidUsersGuide
+  GURPS.grapplingCPAbbrev
+  GURPS.highPainThreshold
+  GURPS.hitLocationArm
+  GURPS.hitLocationArm 1-2
+  GURPS.hitLocationArm 3-4
+  GURPS.hitLocationArm 5-6
+  GURPS.hitLocationArm 7-8
+  GURPS.hitLocationArm*
+  GURPS.hitLocationHand
+  GURPS.identityName
+  GURPS.importCannotImportGCADirectly
+  GURPS.importCannotImportGCSDirectly
+  GURPS.importCurrentVersions
+  GURPS.importErrorParsingXML
+  GURPS.importFantasyGroundUnsupported
+  GURPS.importFileVersion
+  GURPS.importGCABadBlockForDB
+  GURPS.importGCAChildrenWeights
+  GURPS.importGCANoBodyPlan
+  GURPS.importGCANoHideFlag
+  GURPS.importGCANoInnateRangedAndParent
+  GURPS.importGCANoMeleeIfAlsoRanged
+  GURPS.importGCANoParent
+  GURPS.importGCANoSanitizeNotes
+  GURPS.importGCANoSanitizedEquipmentPageRefs
+  GURPS.importGCSNoMeleeRangedNotesForSameItem
+  GURPS.importGCSNoParent
+  GURPS.importGCSNoSelfControl
+  GURPS.importGCSNoUses
+  GURPS.importGenericError
+  GURPS.importNoCharacterFormat
+  GURPS.importNoXMLDetected
+  GURPS.importSeeUsersGuide
+  GURPS.importSuccessful
+  GURPS.importTooManyContainers
+  GURPS.itemBonusText
+  GURPS.itemEditor
+  GURPS.itemFeatures
+  GURPS.level
+  GURPS.lowPainThreshold
+  GURPS.lowPainThresholdDoubles
+  GURPS.maneuver
+  GURPS.maneuverAim
+  GURPS.maneuverAllOutAttack
+  GURPS.maneuverAllOutAttackDetermined
+  GURPS.maneuverAllOutAttackDouble
+  GURPS.maneuverAllOutAttackFeint
+  GURPS.maneuverAllOutAttackStrong
+  GURPS.maneuverAllOutAttackSuppressFire
+  GURPS.maneuverAllOutDefense
+  GURPS.maneuverAllOutDefenseBlock
+  GURPS.maneuverAllOutDefenseDodge
+  GURPS.maneuverAllOutDefenseDouble
+  GURPS.maneuverAllOutDefenseParry
+  GURPS.maneuverAttack
+  GURPS.maneuverChangePosture
+  GURPS.maneuverConcentrate
+  GURPS.maneuverDoNothing
+  GURPS.maneuverEvaluate
+  GURPS.maneuverFeint
+  GURPS.maneuverMove
+  GURPS.maneuverMoveAttack
+  GURPS.maneuverReady
+  GURPS.maneuverWait
+  GURPS.max
+  GURPS.maximum
+  GURPS.melee
+  GURPS.minimum
+  GURPS.minimumDamageRule
+  GURPS.modifierFeverishDef
+  GURPS.modifierHeroicCharge
+  GURPS.modifierScaleNormal
+  GURPS.modifierTrivial
+  GURPS.name
+  GURPS.normal
+  GURPS.notes
+  GURPS.ok
+  GURPS.overridden
+  GURPS.parrybonus
+  GURPS.pdfAllOutDefense
+  GURPS.pdfBlockRetreat
+  GURPS.pdfCrippling
+  GURPS.pdfDamageRoll
+  GURPS.pdfDeceptiveAttack
+  GURPS.pdfDeterminedAttack
+  GURPS.pdfDodgeAcrobatic
+  GURPS.pdfDodgeDive
+  GURPS.pdfDodgeFailedAcro
+  GURPS.pdfDodgeRear
+  GURPS.pdfDodgeRetreat
+  GURPS.pdfDodgeSide
+  GURPS.pdfExtraEffort
+  GURPS.pdfHPT
+  GURPS.pdfHeroicCharge
+  GURPS.pdfKnockback
+  GURPS.pdfKnockdownStun
+  GURPS.pdfLPT
+  GURPS.pdfMajorWound
+  GURPS.pdfMightyBlow
+  GURPS.pdfMoveAttack
+  GURPS.pdfPageReference
+  GURPS.pdfReeling
+  GURPS.pdfRef
+  GURPS.pdfShieldDB
+  GURPS.pdfShieldRush
+  GURPS.pdfShock
+  GURPS.pdfStrongAttack
+  GURPS.pdfTelegraphicAttack
+  GURPS.pdfTempAttribPenalties
+  GURPS.pdfTired
+  GURPS.perfectBalance
+  GURPS.pointDamage
+  GURPS.pointsDamage
+  GURPS.portrait
+  GURPS.quantity
+  GURPS.rangedAttack
+  GURPS.rateOfFire
+  GURPS.rcl
+  GURPS.resource
+  GURPS.resourceInvalidAlias
+  GURPS.resourceTemplateAlias
+  GURPS.rof
+  GURPS.settingBasicPDFs
+  GURPS.settingBasicPDFsCombined
+  GURPS.settingBasicPDFsSeparate
+  GURPS.settingBlockImport
+  GURPS.settingCalculateEnc
+  GURPS.settingCombatInitiative
+  GURPS.settingConvertRanged
+  GURPS.settingDamageAD
+  GURPS.settingDamageBluntTrauma
+  GURPS.settingDamageCondInjury
+  GURPS.settingDamageLocation
+  GURPS.settingDamageLocationMods
+  GURPS.settingDamageMath
+  GURPS.settingDamageRestrictADD
+  GURPS.settingDamageSimpleADD
+  GURPS.settingEnhancedInput
+  GURPS.settingFlagItems
+  GURPS.settingFlagUserCreated
+  GURPS.settingHintBasicPDFs
+  GURPS.settingHintBlockImport
+  GURPS.settingHintCalculateEnc
+  GURPS.settingHintCombatInitiative
+  GURPS.settingHintConvertRanged
+  GURPS.settingHintDamagCondInjury
+  GURPS.settingHintDamageAD
+  GURPS.settingHintDamageBluntTrauma
+  GURPS.settingHintDamageLocation
+  GURPS.settingHintDamageLocationMods
+  GURPS.settingHintDamageMath
+  GURPS.settingHintDamageRestrictADD
+  GURPS.settingHintDamageSimpleADD
+  GURPS.settingHintEnhancedInput
+  GURPS.settingHintFlagItems
+  GURPS.settingHintFlagUserCreated
+  GURPS.settingHintImportHPAndFP
+  GURPS.settingHintImportIgnoreName
+  GURPS.settingHintManeuverDetail
+  GURPS.settingHintManeuverVisibility
+  GURPS.settingHintMookGenerator
+  GURPS.settingHintPlayerBlindRoll
+  GURPS.settingHintPlayerChatPrivate
+  GURPS.settingHintQtyItems
+  GURPS.settingHintRangeStrategy
+  GURPS.settingHintShowDiceRoller
+  GURPS.settingHintShowNavigation
+  GURPS.settingHintShowReadMe
+  GURPS.settingHintStatusReeling
+  GURPS.settingHintStatusWhisper
+  GURPS.settingHintUseEquipped
+  GURPS.settingImportBodyPlan
+  GURPS.settingImportBodyPlanAsk
+  GURPS.settingImportBodyPlanIgnore
+  GURPS.settingImportBodyPlanUseFile
+  GURPS.settingImportHPAndFP
+  GURPS.settingImportHPAndFPAsk
+  GURPS.settingImportHPAndFPIgnore
+  GURPS.settingImportHPAndFPUseFile
+  GURPS.settingImportHintBodyPlan
+  GURPS.settingImportIgnoreName
+  GURPS.settingLabelMookGenerator
+  GURPS.settingManeuverDetail
+  GURPS.settingManeuverDetailFull
+  GURPS.settingManeuverDetailGeneral
+  GURPS.settingManeuverDetailNoFeint
+  GURPS.settingManeuverEveryone
+  GURPS.settingManeuverGMOnly
+  GURPS.settingManeuverNoOne
+  GURPS.settingManeuverVisibility
+  GURPS.settingMookGenerator
+  GURPS.settingPlayerBlindRoll
+  GURPS.settingPlayerChatPrivate
+  GURPS.settingQtyItems
+  GURPS.settingRangeStrategy
+  GURPS.settingRangeStrategyRangeBands
+  GURPS.settingRangeStrategyStandard
+  GURPS.settingShowDiceRoller
+  GURPS.settingShowNavigation
+  GURPS.settingShowReadMe
+  GURPS.settingStatusReeling
+  GURPS.settingStatusWhisper
+  GURPS.settingUseEquipped
+  GURPS.skill
+  GURPS.skillAcrobatics
+  GURPS.skillJudo
+  GURPS.skillLevel
+  GURPS.skillsTab
+  GURPS.slamAOAStrong
+  GURPS.spell
+  GURPS.spellDifficulty
+  GURPS.spellResist
+  GURPS.spellsTab
+  GURPS.statsTab
+  GURPS.suffersAMajorWound
+  GURPS.targeting
+  GURPS.tired
+  GURPS.title
+  GURPS.unconscious
+  GURPS.warning
+  GURPS.weight
+  GURPS.yard
+  Skill Names__
+  __Import Messages__
+  __Maneuvers__
+  __System Settings__
+------------
+values in [lang/en.json] that are the same in [lang/de.json]
+  __ Character AddsDisadsPerksQuirks__: =========
+  __ Character Skills__: =========
+  __Apply Damage Dialog__: =========
+  __Body Plan__: =========
+  __Char Sheet__: =========
+  __Character Attributes__: =========
+  __Character Description__: =========
+  __Character Encumbrance/Lift__: =========
+  __Character Equipment__: =========
+  __Character Points__: =========
+  __Character Sheet Identity__: =========
+  __Character Sheet Miscellaneous__: =========
+  __Character Spells__: =========
+  __Character Weapons__: =========
+  __Chat Messages__: =========
+  __Damage Types__: =========
+  __Drag Ruler__: =========
+  __Fantastic Dungeon Grappling__: =========
+  __Hit Location__: =========
+  __Modifier Bucket__: =========
+  __PDF References__: =========
+  __Permissions__: =========
+  __Resolve Damage Dialog__: =========
+  __Resource Trackers__: =========
+  __Slam Calculator__: =========
+  __Status/Conditions__: =========
